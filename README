@@ -1,0 +1,6 @@
+To Run:
+./scripts/run-app.sh
+
+To Deploy:
+git push heroku master
+
